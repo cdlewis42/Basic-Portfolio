@@ -68,8 +68,7 @@ a {
     width:960px;
     height:1000px;
     background-color:#ffffff;
-    margin:auto;    
-
+    margin:auto;
 }
 p{
     line-height:1.5em;
@@ -84,9 +83,20 @@ p{
 .project{
     color:#ffffff;
     background-color:#4aaaa5;
-    padding:20px 61px 20px 61px;
+    height:100px;
+    padding:20px;
+    width:100px;
+    text-align:center;
+    box-sizing:border-box;
+
+}
+.content-wrapper{
+    display:inline-block;
 }
 .text-wrapper{
+    box-sizing:border-box;
+    height:200px;
+    width:200px;
     position:relative;
     bottom:100px;                   
     left:20px;  
@@ -97,5 +107,8 @@ p{
 }
 #message{
     height:200px;
+    width:500px;
+}
+#a1{
     width:500px;
 }
