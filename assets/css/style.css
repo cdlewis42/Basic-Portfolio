@@ -64,8 +64,33 @@ a {
     margin-left:20px;
     margin-right:10px;
 }
+#portfolio{
+    width:960px;
+    height:1000px;
+    background-color:#ffffff;
+    margin:auto;    
+
+}
 p{
     line-height:1.5x;
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color:#777777
 }
+.img2{
+    height:150px;
+    width:190px;
+    margin:20px;
+}
+.project{
+    color:#ffffff;
+    background-color:#4aaaa5;
+    padding:20px 61px 20px 61px;
+}
+.text-wrapper{
+    position:relative;
+    bottom: 100px;
+    left:20px;
+
+    
+}
+
