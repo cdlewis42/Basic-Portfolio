@@ -91,4 +91,11 @@ p{
                        
     left:20px;  
 }
-
+.text{
+    position:relative;
+    left: 425px;
+}
+#message{
+    height:200px;
+    width:500px;
+}
