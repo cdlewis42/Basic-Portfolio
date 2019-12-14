@@ -72,7 +72,7 @@ a {
 
 }
 p{
-    line-height:1.5x;
+    line-height:1.5em;
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color:#777777
 }
@@ -88,9 +88,7 @@ p{
 }
 .text-wrapper{
     position:relative;
-    bottom: 100px;
-    left:20px;
-
-    
+                       
+    left:20px;  
 }
 
